@@ -1,0 +1,7 @@
+﻿  ICM.cpp
+C:\Users\Максим\Desktop\ИКМ\ICM_Stryapunin_2025\ICM.cpp(13,9): warning C4101: res: неиспользованная локальная переменная
+  service_func.cpp
+C:\Users\Максим\Desktop\ИКМ\ICM_Stryapunin_2025\service_func.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Максим\Desktop\ИКМ\ICM_Stryapunin_2025\x64\Debug\ICM.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ICM.vcxproj -> C:\Users\Максим\Desktop\ИКМ\ICM_Stryapunin_2025\x64\Debug\ICM.exe
